@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+}
+body{
+  font-family:Freestyle Script;
+  background-color:#ffe8b8;
+}
+.box{
+  display:flex;
+   justify-content: center;
+  align-items: center;
+
+}
+
+form{
+  font-size:40px;
+  margin-left:15px;
+ padding:70px;
+  border:2px solid black;}
+
+h1{
+  margin:0;
+  padding:0;
+  font-size:px;
+  
+}
+input{
+ font-size:20px; 
+  background-color:#ffd57d;
+}
